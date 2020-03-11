@@ -4,7 +4,7 @@ This is a regular paragraph.
 
 <table>
   <tr>
-    <td>Foo</td>
+    <td>2020 Thought Experiment</td>
   </tr>
   </table>
   
