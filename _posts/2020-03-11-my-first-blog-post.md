@@ -1,2 +1,4 @@
-## Thought Experiment 2020
-<p>This is my thought experiment and I'm so happy you could join!</p>
+---
+title: Thought Experiment 2020
+date: 2020-05-11
+---
